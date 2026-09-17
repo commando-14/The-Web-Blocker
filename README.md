@@ -206,4 +206,4 @@ The Web Blocker is offered as a full free version with all features and updates 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-17 05:44:18 UTC
+**Last updated:** 2026-09-17 10:58:29 UTC
